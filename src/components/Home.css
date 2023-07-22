@@ -1,0 +1,31 @@
+.page-container{
+    display: flex;
+    height: 100%;
+  }
+
+  .page-sidebar{
+    width: 300px;
+    border: 1px solid black;
+    background-color: rgb(235, 232, 232);
+  }
+
+  
+.map-screen{
+    width: 100%;
+    /* height: 300px; */
+    border: 1px solid black;
+}  
+
+.logo{
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 35%;
+  }
+
+  
+.Navbar{
+    background-color: rgb(1, 8, 17) ;
+    color: white;
+    height: 50px;
+    font-size:large;
+}  

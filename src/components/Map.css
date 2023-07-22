@@ -1,0 +1,28 @@
+
+.map-container{
+    height: 600px;
+  }
+  
+
+  .marker{
+    background-image: url("../Assets/depositphotos_87979780-stock-illustration-map-marker-icon.jpg");
+    background-size: cover;
+    background-color:#54e81a;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+ 
+    /* color: red; */
+    /* opacity: 10; */
+  }
+
+  .blue-marker{
+    background-image: url("../Assets//depositphotos_87979780-stock-illustration-map-marker-icon.jpg");
+    background-size: cover;
+    background-color:#54e81a;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+  }

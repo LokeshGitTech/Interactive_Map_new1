@@ -1,0 +1,17 @@
+.image{
+    height: 100px;
+    width: 150px;
+    display: flex;
+    padding: 20px;
+}
+
+
+.villa-details-container{
+    display: flex;
+    height: 150px;
+    /* justify-content: center; */
+}
+
+.Top-Destination{
+    display: flex;
+}
